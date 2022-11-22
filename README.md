@@ -13,7 +13,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
+A mod for the game DayZ https://www.bohemia.net/games/dayz
 
 
 SIBNIC's obfuscation stops most people from making a car cover mod as you cannot locate the .cpp file by default. SIBNIC's obfuscation isn't bullet proof however so here's a working car cover mod you can use as is or modify to your liking.
