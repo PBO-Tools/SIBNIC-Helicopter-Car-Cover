@@ -13,9 +13,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-This mod is designed for DayZ (https://www.bohemia.net/games/dayz) and utilizes SIBNIC's obfuscation to prevent easy access to the .cpp file, making it challenging for most individuals to create a car cover mod. Although SIBNIC's obfuscation is not entirely foolproof, here's a functional car cover mod that you can use as is or customize according to your preferences.
-
-Furthermore, this mod is compatible with Gamelabs, ensuring that the covers will be visible on your admin panel as well.
+Created specifically for DayZ and intended to be used alongside SIBNIC's helicopter mod, this modification ensures the inclusion of covers that are fully compatible with Gamelabs. As a result, the covers will be readily visible on your admin panel, enhancing the overall gaming experience.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
